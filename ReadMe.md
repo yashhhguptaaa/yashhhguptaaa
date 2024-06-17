@@ -5,6 +5,7 @@ Innovating the Web, One Line of Code at a Time.<br><br>As a dynamic and passiona
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/731516545972568154) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-gupta-6580b4213) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yashhhguptaaa)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:yash3144@gmail.com)
 
 # 💻 Tech Stack:
 
